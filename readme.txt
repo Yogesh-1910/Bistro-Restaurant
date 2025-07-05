@@ -1,45 +1,78 @@
-﻿Responsive HTML5 Template
+# 🍽️ Bistro Restaurant Website
 
-Bestro restaurant bootstrap HTML5 template is a clean modern designed Bootstrap template for a multi page lovers, This template fits in all types of requirements like the restaurant, hotels, coffee shop, food, canteen, portfolio and many more. This template is built using latest Bootstrap 3.2, html5 and css3 which is easy and simple to customise the theme as per your requirements. This template meet the latest requirement and it is fully responsive template fits in all devices with multi browser support. Start Download.
+A modern and responsive restaurant website built using HTML, CSS, JavaScript, and Bootstrap. This project showcases a clean and elegant interface suitable for restaurants, cafes, and food delivery businesses.
 
-Key features
--------------
-Twitter Bootstrap 3.3.1
-Clean & Developer-friendly HTML5 and CSS3 code
-100% Responsive Layout Design 
-Multi-purpose theme
-Google Fonts Support
-Font Awesome 
-Smooth Scrolling 
-Fully Customizable
-Contact Form
+## 🚀 Features
 
+- Responsive design for all devices
+- Smooth scrolling navigation
+- Image gallery for menu and ambiance
+- Contact form with Google Maps integration
+- Scroll animations and hover effects
+- Newsletter subscription section
 
-Credits :
--------
-=> Design and developed: "WebThemez"  http://webthemez.com
-=> Photos used in template: **Unsplash** - http://unsplash.com, http://risewall.com/home-business-team-wallpapers.html
-=> For more free web themes: http://webthemez.com
-=> Framework : http://getbootstrap.com
+## 📂 Project Structure
 
-Important Note:
----------------
-To remove backlink from the template, you need to donate to remove the backlink from the template.
-Any question contact us: webthemez@gmail.com
+```
 
+Bistro-Restaurant-main/
+│
+├── css/                  # Custom CSS files
+│   └── style.css
+│
+├── fonts/                # Font files
+│
+├── images/               # Image assets
+│
+├── js/                   # JavaScript files
+│   └── script.js
+│
+├── mail/                 # Backend mail sending script (PHP)
+│   └── send.php
+│
+├── sass/                 # SASS files for custom styling (optional)
+│
+├── vendor/               # Third-party libraries (Bootstrap, jQuery, etc.)
+│
+├── index.html            # Homepage
+├── about.html            # About page
+├── contact.html          # Contact page
+├── reservation.html      # Reservation form
+└── menu.html             # Menu items
 
-License :
--------
-**Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
+````
 
-- You are allowed to use all files for both personal and commercial projects.
+## 🛠️ Technologies Used
 
-- If you use/modify the resources in your projects,we’d appreciate a linkback to this site.
+- HTML5
+- CSS3 / SASS
+- JavaScript
+- jQuery
+- Bootstrap 4
+- PHP (for contact form)
+- Font Awesome
 
-- You do not have rights to redistribute,resell or offer files from this site to any third party
+## 📸 Screenshots
 
-- If you are a free member wish to remove backlink from the template, you need to donate min USD $10 to remove backlink (credits) form the template
+> (Add screenshots of your homepage, menu, and contact form here)
 
-- If you have any question,feel free to contact us at webthemez@gmail.com
+## 📥 How to Use
 
-- All images user here is for demo purpose only, we are not responsible for any copyrights.
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/Bistro-Restaurant.git
+cd Bistro-Restaurant
+````
+
+### 2. Open the Project
+
+You can open `index.html` in your browser directly or host it using a local server like VSCode Live Server or XAMPP.
+
+### 3. Customize
+
+* Replace images in the `images/` folder
+* Update contact email in `mail/send.php`
+* Customize text, menu, and styles in the HTML/CSS files
+
+```
